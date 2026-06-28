@@ -6,7 +6,7 @@ It provides secure authentication, activity tracking, dashboard analytics, and A
 ## 🚀 Live API
 
 Backend:
-https://fitness-tracker-backend-klk2.onrender.com
+https://fitness-tracker-backend-klk2.onrender.com/health
 
 Frontend:
 https://fitness-tracker-ui.onrender.com
