@@ -11,6 +11,9 @@ https://fitness-tracker-backend-klk2.onrender.com
 Frontend:
 https://fitness-tracker-ui.onrender.com
 
+API Documentation (Swagger):
+https://fitness-tracker-backend-klk2.onrender.com/swagger-ui/index.html
+
 ---
 
 ## ✨ Features
