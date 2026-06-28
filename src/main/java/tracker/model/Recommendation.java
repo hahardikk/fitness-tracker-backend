@@ -25,7 +25,7 @@ public class Recommendation {
     private String id;
 
     private String type;
-    @Lob
+    @Column(columnDefinition = "TEXT")
     private String recommendation;
 
     @JdbcTypeCode(SqlTypes.JSON)
