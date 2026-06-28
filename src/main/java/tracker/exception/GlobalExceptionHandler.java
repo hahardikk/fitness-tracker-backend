@@ -1,4 +1,4 @@
-package tracker.Exception;
+package tracker.exception;
 
 
 import tracker.service.UserService;

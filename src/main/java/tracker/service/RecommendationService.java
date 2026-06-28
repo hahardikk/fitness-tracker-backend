@@ -1,7 +1,7 @@
 package tracker.service;
 
-import tracker.Exception.AccessDeniedException;
-import tracker.Exception.NotFoundException;
+import tracker.exception.AccessDeniedException;
+import tracker.exception.NotFoundException;
 import tracker.dto.AiRecommendationResponse;
 import tracker.dto.RecommendationResponse;
 import tracker.model.Activity;

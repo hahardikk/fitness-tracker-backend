@@ -1,7 +1,7 @@
 package tracker.service;
 
-import tracker.Exception.InvalidCredentialException;
-import tracker.Exception.UserAlreadyExistsException;
+import tracker.exception.InvalidCredentialException;
+import tracker.exception.UserAlreadyExistsException;
 import tracker.dto.LoginRequest;
 import tracker.dto.UserRequest;
 import tracker.dto.UserResponse;

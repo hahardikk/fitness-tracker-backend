@@ -1,4 +1,4 @@
-package tracker.Exception;
+package tracker.exception;
 
 public class InvalidCredentialException extends RuntimeException{
    public InvalidCredentialException(String message){

@@ -1,6 +1,6 @@
 package tracker.controller;
 
-import tracker.Exception.AccessDeniedException;
+import tracker.exception.AccessDeniedException;
 import tracker.dto.RecommendationResponse;
 import tracker.service.RecommendationService;
 import lombok.RequiredArgsConstructor;

@@ -1,6 +1,6 @@
 package tracker.service;
 
-import tracker.Exception.NotFoundException;
+import tracker.exception.NotFoundException;
 import tracker.dto.DashboardResponse;
 import tracker.model.Activity;
 import tracker.model.User;

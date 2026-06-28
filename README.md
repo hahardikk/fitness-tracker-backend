@@ -54,12 +54,11 @@ src/
 ├── controller/
 ├── service/
 ├── repository/
-├── entity/
+├── model(entity)/
 ├── dto/
 ├── config/
 ├── security/
 ├── exception/
-└── util/
 ```
 
 ---

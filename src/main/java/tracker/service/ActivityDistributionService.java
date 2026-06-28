@@ -1,6 +1,6 @@
 package tracker.service;
 
-import tracker.Exception.NotFoundException;
+import tracker.exception.NotFoundException;
 import tracker.dto.ActivityDistributionResponse;
 import tracker.model.User;
 import tracker.repository.ActivityRepository;
